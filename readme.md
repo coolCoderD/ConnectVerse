@@ -1,6 +1,6 @@
-# Pinterest Clone
+# ConnectVerse
 
-Pinterest Clone is a web application built using Node.js, Express.js, Tailwind CSS, and MongoDB for database storage. It includes user authentication and authorization for protected routes.
+ConnectVerse is a web application built using Node.js, Express.js, Tailwind CSS, and MongoDB for database storage. It includes user authentication and authorization for protected routes.
 
 ## Tech Stack
 
